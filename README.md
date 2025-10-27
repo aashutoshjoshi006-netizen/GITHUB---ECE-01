@@ -1,2 +1,2 @@
-# GITHUB---ECE-01
+# GITHUB ECE-01
 author - aashutosh joshi
